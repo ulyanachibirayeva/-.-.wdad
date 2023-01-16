@@ -1,1 +1,6 @@
-print (I’m <Ульяна> <Чибиряева>, and I’m not a monkey)
+#include <stdio.h>
+main ()
+(
+printf(I’m <Ульяна> <Чибиряева>, and I’m not a monkey);
+getchar ();
+)
